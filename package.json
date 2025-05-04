@@ -1,0 +1,23 @@
+{
+  "name": "literate-octo-fortnight",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gabriel-de-azevedo/literate-octo-fortnight#readme",
+  "bugs": {
+    "url": "https://github.com/gabriel-de-azevedo/literate-octo-fortnight/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-de-azevedo/literate-octo-fortnight.git"
+  },
+  "license": "ISC",
+  "author": "Gabriel de Azevedo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
